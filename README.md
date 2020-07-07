@@ -16,7 +16,7 @@ This repository contains the code of the case of the study with the following di
 Following packages need to be installed (they will be installed automatically if they are not installed)
 
 ```
-dplyr
+dplyr 
 tidyr
 extraDistr
 hms
