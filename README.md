@@ -1,19 +1,19 @@
 # A Case Study in Cybersecurity Resource Allocation and Cyber Insurance
 
-This repository contains the code of the case of the study with the following directories:
+This repository contains the code of the case study with the following directories:
   
-* Appendix: the appendix algorithm implementation
-* Attackers: the attacker's problems
+* Appendix: Implementation of algorithm in Appendix
+* Attackers: Attacker's problems
 * Defender: Median problem
-* Impacts: the code of insurable/non-insurable impacts
-* Input: all the code needed for the input of the case
-* Output: contains the ouput of the Median problem with single or various attackers
-* Threats: contains the threats code
-* analysis.R: functions needed for the analysis
-* main.R: the case main
+* Impacts: Code of insurable/non-insurable impacts
+* Input: Code needed for input of the case
+* Output: Ouput of Median problem with single or all attackers
+* Threats: Contains threats code
+* analysis.R: functions needed for analysis
+* main.R: main code
 
 ### Prerequisites
-Following packages need to be installed (they will be installed automatically if they are not installed)
+The following R packages need to be installed (they will be installed automatically if they are not installed)
 
 ```
 dplyr 
@@ -42,4 +42,7 @@ To load the defender problem:
   
 ### Authors
 * Alberto Redondo - *alberto.redondo@icmat.es* - 
-* Aitor Couce - *coucevieira@outlook.com* - 
+* Aitor Couce - *coucevieira@outlook.com* -
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
